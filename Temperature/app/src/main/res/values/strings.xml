@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temperature</string>
+    <string name="convert">Convert</string>
+    <string name="c_f"><![CDATA[C->F]]></string>
+    <string name="f_c"><![CDATA[F->C]]></string>
+    <string name="calculator">Calculator</string>
+    <string name="give_the_temperature">Give the temperature</string>
+</resources>
